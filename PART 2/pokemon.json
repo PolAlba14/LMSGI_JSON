@@ -1,0 +1,79 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "nom": "Lucario",
+      "tipus": ["Lluita", "Acer"],
+      "pes": "54 kg",
+      "altura": "1.2 m",
+      "estadistiques": {
+        "velocitat": 90,
+        "força": 110,
+        "precisió": 85,
+        "resistència": 70
+      },
+      "moviments": [
+        {
+          "nom": "A Bocajarro",
+          "descripció": "Un cop molt fort que baixa la defensa i defensa especial.",
+          "potència": 120,
+          "contacte": true
+        },
+        {
+          "nom": "Canallada",
+          "descripció": "Ataca i si l'objectiu ha actuat, fa el doble de mal.",
+          "potència": 70,
+          "contacte": true
+        }
+      ],
+      "imatge": "https://www.wikidex.net/wiki/Archivo:Lucario.png",
+      "evolucions": [
+        {
+          "id": 0,
+          "nom": "Riolu",
+          "nivell_requerit": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Slaking",
+      "tipus": ["Normal"],
+      "pes": "130.5 kg",
+      "altura": "2.0 m",
+      "estadistiques": {
+        "velocitat": 100,
+        "força": 160,
+        "precisió": 75,
+        "resistència": 100
+      },
+      "moviments": [
+        {
+          "nom": "Hiperrayo",
+          "descripció": "Un raig molt poderós que requereix un torn de descans.",
+          "potència": 150,
+          "contacte": false
+        },
+        {
+          "nom": "Golpe Cuerpo",
+          "descripció": "Colpeja amb tot el cos, pot paralitzar.",
+          "potència": 85,
+          "contacte": true
+        }
+      ],
+      "imatge": "https://www.wikidex.net/wiki/Archivo:Slaking.png",
+      "evolucions": [
+        {
+          "id": 3,
+          "nom": "Vigoroth",
+          "nivell_requerit": 36
+        },
+        {
+          "id": 4,
+          "nom": "Slakoth",
+          "nivell_requerit": 18
+        }
+      ]
+    }
+  ]
+}

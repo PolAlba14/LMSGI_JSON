@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+
+  <producte codi="101">
+    <nom>Canon EOS 250D</nom>
+    <descripcio>
+      Càmera rèflex digital amb sensor CMOS de 24.1MP, pantalla tàctil abatible i gravació 4K.
+    </descripcio>
+    <preu moneda="EUR">649.00</preu>
+    <categoria>Fotografia</categoria>
+    <disponibilitat>En estoc</disponibilitat>
+    <imatge>
+      <url>https://www.aaaaAA.com/images/canon250d.jpg</url>
+    </imatge>
+  </producte>
+
+  <producte codi="202">
+    <nom>AirSound Pro X</nom>
+    <descripcio>
+      Auriculars Bluetooth amb cancel·lació activa de soroll, micròfon integrat i estoig de càrrega ràpida.
+    </descripcio>
+    <preu moneda="EUR">89.99</preu>
+    <categoria>Àudio</categoria>
+    <disponibilitat>Esgotat</disponibilitat>
+    <imatge>
+      <url>https://www.eeeDDD.com/images/airsoundprox.jpg</url>
+    </imatge>
+  </producte>
+
+</botiga>

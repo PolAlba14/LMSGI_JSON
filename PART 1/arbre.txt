@@ -1,0 +1,19 @@
+botiga
+│
+├── producte [codi="101"]
+│   ├── nom
+│   ├── descripcio
+│   ├── preu [moneda="EUR"]
+│   ├── categoria
+│   ├── disponibilitat
+│   └── imatge
+│       └── url
+│
+└── producte [codi="202"]
+    ├── nom
+    ├── descripcio
+    ├── preu [moneda="EUR"]
+    ├── categoria
+    ├── disponibilitat
+    └── imatge
+        └── url
